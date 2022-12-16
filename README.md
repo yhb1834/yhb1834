@@ -6,7 +6,13 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=yhb1834&theme=tokyonight&show_icons=true" width="54%" />
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yhb1834&theme=tokyonight)](https://git.io/streak-stats)
+
+<p>
+  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 <!--
 **yhb1834/yhb1834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

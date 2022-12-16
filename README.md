@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
@@ -24,7 +25,7 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhb1834&exclude_repo=yhb1834.github.io&layout=compact&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhb1834&exclude_repo=yhb1834.github.io&layout=compact&theme=snazzy-light" width="45%"/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=yhb1834&theme=tokyonight&show_icons=true" width="54%" />

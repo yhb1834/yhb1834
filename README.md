@@ -1,10 +1,10 @@
 ![Hanbyeol Lee](https://capsule-render.vercel.app/api?type=waving&height=200&text=HanbyeolLee&fontAlign=70&fontAlignY=40&color=gradient)
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhb1834&exclude_repo=yhb1834.github.io&layout=compact&theme=tokyonight" width="44%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhb1834&exclude_repo=yhb1834.github.io&layout=compact&theme=tokyonight" width="45%"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yhb1834&theme=tokyonight&show_icons=true" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yhb1834&theme=tokyonight&show_icons=true" width="56%" />
 </a>
 
 <!--

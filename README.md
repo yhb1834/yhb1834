@@ -1,4 +1,11 @@
-![Hanbyeol Lee](https://capsule-render.vercel.app/api?type=waving&height=200&text=HanbyeolLeee&fontAlign=80&fontAlignY=40&color=gradient)
+![Hanbyeol Lee](https://capsule-render.vercel.app/api?type=waving&height=200&text=HanbyeolLee&fontAlign=70&fontAlignY=40&color=gradient)
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 <!--
 **yhb1834/yhb1834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

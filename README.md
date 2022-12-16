@@ -1,4 +1,4 @@
-![Hanbyeol Lee](https://capsule-render.vercel.app/api?type=waving&height=200&text=HanbyeolLee&fontAlign=70&fontAlignY=40&color=E8A49C)
+![Hanbyeol Lee](https://capsule-render.vercel.app/api?type=waving&height=200&text=HanbyeolLee&fontAlign=70&fontAlignY=40&background-image: linear-gradient(to right bottom, #de7fb5, #e191c3, #e5a2cf, #e8b3db, #ecc3e5, #e5cced, #dfd4f3, #dcdbf5, #cedcf1, #c6dcea, #c3dbe0, #c5d8d)
 
 #### 🌱 About me
 <p>

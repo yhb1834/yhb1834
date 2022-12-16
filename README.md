@@ -1,6 +1,6 @@
 ![Hanbyeol Lee](https://capsule-render.vercel.app/api?type=waving&height=200&text=HanbyeolLee&fontAlign=70&fontAlignY=40&color=gradient)
 
-###About me🌱
+#### 🌱 About me
 <p>
   <a href="https://velog.io/@hanbyeolee" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yhb1834/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -8,9 +8,14 @@
 </p>
 
 
-###Skills
+#### 👩🏻‍💻 Tech Stack 
 <p>
   <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/#FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/#22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/#3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   
 </p>
 

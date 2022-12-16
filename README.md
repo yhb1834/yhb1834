@@ -6,8 +6,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=yhb1834&theme=tokyonight&show_icons=true" width="54%" />
 </a>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yhb1834&theme=nord_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yhb1834&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **yhb1834/yhb1834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

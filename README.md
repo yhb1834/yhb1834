@@ -26,9 +26,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhb1834&exclude_repo=yhb1834.github.io&layout=compact&theme=snazzy-light" width="45%"/>
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yhb1834&theme=snazzy-light&show_icons=true" width="54%" />
-</a>
 
 
 <!--

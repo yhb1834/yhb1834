@@ -1,5 +1,3 @@
-![Hanbyeol Lee](https://capsule-render.vercel.app/api?type=waving&height=200&text=HanbyeolLee&fontAlign=70&fontAlignY=40&color=gradient)
-
 #### 🌱 About me
 <p>
   <a href="https://velog.io/@hanbyeolee" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
